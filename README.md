@@ -8,7 +8,7 @@ SQLite Database called airline2.db with the following tables:
 4. planes (with the data in plane-data.csv)
 Create a GitHub repository called “st2195_assignment_3” that includes:
 1. a README.md file with a short markdown description of this assignment and a
-reference to the Data Expo 2009 data, and the Harvard Dataverse [1 point]
+reference to the Data Expo 2009 data, and the Harvard Dataverse (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7) [1 point]
 2. a folder called “r_sql” with a R code for constructing the database (from the csv
 inputs) and replicating the queries in the practice quiz. The latter should be done
 both using DBI and dplyr notation [1.75 points each]
